@@ -1,0 +1,43 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: #fc018b;
+}
+
+.header
+  {
+  background: rgb(5, 3, 30);
+  color: #1794ed; 
+  }
+
+  
+  .copy_right_footer {
+   position: fixed;
+   color: #08c9ec;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #ff0beb;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(206, 85, 29);
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
